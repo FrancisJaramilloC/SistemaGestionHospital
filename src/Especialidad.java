@@ -1,0 +1,3 @@
+public enum Especialidad {
+    DERMATOLOGIA, PEDIATRIA, CARDIOLOGIA, ENDOCRINOLOGIA
+}
